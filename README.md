@@ -8,6 +8,7 @@ http://logo_link
 ## Badges
 
 Include some bedges such as build status, test coverage, etc.
+
 http://badge_link
 
 
@@ -23,7 +24,9 @@ http://badge_link
 
 '''
 git clone https://github.com/username/projectname.git
+
 cd projectname
+
 pip install requirements.txt
 '''
 
