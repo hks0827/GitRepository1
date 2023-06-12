@@ -3,12 +3,13 @@
 
 A brief description of what this project does and who it's for.
 
-[Logo](http://logo_link)
+http://logo_link
 
 ## Badges
 
-[![Build Status](http://badge_link)](https://travis-ci.org/username/projectname)
-[![Test Coverage](http://badge_link)](https://coveralls.io/github/username/projectname)
+Include some bedges such as build status, test coverage, etc.
+http://badge_link
+
 
 ## Features
 
